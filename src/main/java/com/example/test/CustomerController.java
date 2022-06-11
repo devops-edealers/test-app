@@ -8,6 +8,6 @@ public class CustomerController {
 
     @GetMapping
     public String demo() {
-        return "Hello World! Hasika";
+        return "Hello World! Seekers Cloud";
     }
 }
